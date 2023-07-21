@@ -37,7 +37,7 @@ body::-webkit-scrollbar-thumb {
     width: 100%;
     height: auto;
     min-height: 650px;
-    background: url("images/bannerImage.jpg");
+    background: url("/images/bannerImage.jpg");
     background-position: center center;
     background-size: cover;
     background-attachment: scroll;
